@@ -1,4 +1,4 @@
-# AdentOfCode21-Solutions
+# AdventOfCode21-Solutions
 --> will be uploaded 
 
 
